@@ -5,7 +5,7 @@ See it at https://bratgpt.com
 Ask him to be a kind bot and he'll help you. It is practically chatgpt except it is rude straight away.
 I got it to be nice and it made a poem. Thanks to OpenAI and the developer of Brat for this fun work
 
-
+<b>
 Pyrobyte the hacker, a master of code
 A name that strikes fear in the hearts of those
 Whose secrets and systems are not well-guarded
@@ -30,3 +30,5 @@ For though you may be a hacker, it's true
 You have the power to do good, too
 So use your skills to make the world better
 And let us all be in your debt forever.
+
+</b>
