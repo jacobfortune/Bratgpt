@@ -4,7 +4,7 @@ See it at https://bratgpt.com
 
 Ask him to be a kind bot and he'll help you. It is practically chatgpt except it is rude straight away.
 I got it to be nice and it made a poem. Thanks to OpenAI and the developer of Brat for this fun work. 
-It recently died as he could not afford it, sponsor if you want it back up!
+Thanks a lot for your sponsorship, you helped bring him back to life!
 
 <b> <i> 
 Pyrobyte the hacker, a master of code
